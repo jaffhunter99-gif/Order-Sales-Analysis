@@ -35,9 +35,9 @@ SQL sorğularının hamısı [`oe_sales_analysis.sql`](./oe_sales_analysis.sql) 
 
 ## Dashboard
 
-Dashboard-u interaktiv görmək üçün [`dashboard.twbx`](./dashboard.twbx) faylını endirib Tableau Desktop-da açın (Tableau Public pulsuz mövcuddur).
+Dashboard-u interaktiv görmək üçün [`dashboard.twbx`](./dashboard_tableau1.twbx) faylını endirib Tableau Desktop-da açın (Tableau Public pulsuz mövcuddur).
 
-![Order Sales Dashboard](./dashboard.png)
+![Order Sales Dashboard](./dashboard_screenshot1.png)
 
 Dashboard 3 hissədən ibarətdir:
 - **Revenue by Category** – kateqoriya üzrə ümumi gəlir müqayisəsi
